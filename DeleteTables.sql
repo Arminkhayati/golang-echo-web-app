@@ -1,0 +1,9 @@
+DROP TABLE address;
+DROP TABLE contact;
+DROP TABLE profile;
+DROP TABLE user_legal_identity;
+DROP TABLE legal_identity;
+DROP TABLE real_identity;
+DROP TABLE file_info;
+DROP TABLE app_user;
+DROP TABLE pre_project;
